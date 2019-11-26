@@ -3,7 +3,7 @@ Here you can find an example how to connect JAVA with excel.
 
 How to install:
 
-1.Clone project.
+1.Clone project'\n'.
 2.Install Apache IPO
 4.Read Apache IPO .JAR files  
 3.Refresh FILE_PATH in Task 2 and Task 3
